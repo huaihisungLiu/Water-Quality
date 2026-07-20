@@ -1,0 +1,32 @@
+title: "Poop Patrol — Water Pollution Awareness for Kids"
+description: >-
+  A student product-discovery project using the UA Framework to turn a hunch
+  into an evidence-backed product: a water-pollution awareness web app for kids.
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+# Clean navigation across the top of every page
+header_pages:
+  - process.md
+  - positioning.md
+  - research.md
+  - interviews.md
+  - wireframes.md
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# url and baseurl are injected at build time by the GitHub Actions
+# "configure-pages" step, so they are intentionally left unset here.
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - UA0-PROJECT-STATUS.md
+  - README.md
