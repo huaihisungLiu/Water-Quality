@@ -48,5 +48,8 @@ Things the student and agent have flagged as not yet addressed. Carried forward 
 
 ## Last updated
 
-- **Date:** 2026-06-15
-- **By:** ua-orchestrator
+- **Date:** 2026-07-20
+- **By:** positioning-statement (Pass 1 in progress — clauses 1–3 drafted, clause 4 open)
+
+<!-- sync check: written by Claude in Cowork, 2026-07-20 -->
+
